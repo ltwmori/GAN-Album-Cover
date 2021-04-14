@@ -10,6 +10,8 @@ __pycache__/
 secret.txt
 spotify_credentials.json
 
+/images
+
 # Distribution / packaging
 .Python
 build/
