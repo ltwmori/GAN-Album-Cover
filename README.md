@@ -1,6 +1,8 @@
 # GAN-Album-Cover
 GANs for Album Cover Generation
 
+#### *Project is still on development stage*
+
 ### Summary
 This project creates a Generative Adversarial Network (GAN) for album cover generation based on the Spotify dataset. It is based on [this paper](https://ryanmcconville.com/publications/AlbumCoverGenerationFromGenreTags.pdf) and the ultimate objective is to generate album images based on music genres.
 
